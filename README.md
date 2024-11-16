@@ -13,7 +13,7 @@
 
 <p align="center"
 
-── [P0NYT0WN RENTRY](...) ──
+── [P0NYT0WN RENTRY](https://rentry.co/coqllarpt) ──
    <br> ${\textsf{\color{#000000} I only follow back friends or people i interacted with. }}$  
 
 
