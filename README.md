@@ -12,7 +12,7 @@
  <p align="center"
 
  . 　⁺ 　 .  [INTERESTS](https://rentry.co/coqllarfandoms) ⋆ [DNi & ByF](https://rentry.co/coqllardnibyf) ⋆ [NE0SPRING](...)  . 　⁺ 　 . 
-   <br> ${\textsf{\color{#000000} I only follow back friends or people i interacted with. }}$  
+   <br> ${\textsf{\color{#000000} . . . }}$  
 
 <p align="center">
 </p>
