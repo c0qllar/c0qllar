@@ -11,7 +11,7 @@
 
  <p align="center"
 
- . 　⁺ 　 .  [INTERESTS](...) ⋆ [DNi & ByF](https://rentry.co/coqllardnibyf) ⋆ [NE0SPRING](...)  . 　⁺ 　 . 
+ . 　⁺ 　 .   ⋆ [DNi & ByF](https://rentry.co/coqllardnibyf) ⋆   . 　⁺ 　 . 
    <br> ${\textsf{\color{#000000} . . . }}$  
 
 <p align="center">
