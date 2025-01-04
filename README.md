@@ -7,7 +7,7 @@
 <p align="center">
    <br> ${\textsf{\color{#000000}⧼    𝟰 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡    ⧽ }}$  
 <p align="center">
-   <br> ${\textsf{\color{#845454} c + h , interact freely}}$  
+   <br> ${\textsf{\color{#000000} c + h , interact freely}}$  
 <p align="center">
    <br> ${\textsf{\color{#000000} I'm often 𝗼𝗳𝗳𝘁𝗮𝗯 so 𝗪𝟮𝗜 if I don't reply}}$
 
