@@ -5,13 +5,14 @@
 
 
 <p align="center">
-   <br> ${\textsf{\color{#000000}⧼    𝟰 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡    ⧽ }}$  
+   <br> ⧼    𝟰 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡    ⧽   
 <p align="center">
-   <br> ${\textsf{\color{#000000} c + h , interact freely}}$  
+   <br>  c + h , interact freely  
    <br>  I'm often 𝗼𝗳𝗳𝘁𝗮𝗯 so 𝗪𝟮𝗜 if I don't reply
 
  <p align="center"
 
+   <br> discord: @/coqllar 
    <br>  . 　⁺ 　 .   ⋆  [RENTRY](https://rentry.co/coqllar) , [DNi & ByF](https://rentry.co/coqllardnibyf) , [ATABOOK](https://coqllar.atabook.org)  ⋆   . 　⁺ 　 . 
    <br> ${\textsf{\color{#845454} pfp by @/naeruns }}$  
 
