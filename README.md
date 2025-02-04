@@ -12,8 +12,8 @@
 
  <p align="center"
 
-   <br>  . 　⁺ 　 .   ⋆  [RENTRY](https://rentry.co/coqllar) , [DNi & ByF](https://rentry.co/coqllardnibyf) , [ATABOOK](https://coqllar.atabook.org)  ⋆   . 　⁺ 　 . 
-   <br> ${\textsf{\color{#f0af83} discord : @/coqllar }}$  
+   <br>  ${\textsf{\color{#f0af83} . 　⁺ 　 .   ⋆ }}$  [RENTRY](https://rentry.co/coqllar) , [DNi & ByF](https://rentry.co/coqllardnibyf) , [ATABOOK](https://coqllar.atabook.org)  ${\textsf{\color{#f0af83} ⋆   . 　⁺ 　 . }}$ 
+   <br> discord : @/coqllar  
 
 <p align="center">
 </p>
