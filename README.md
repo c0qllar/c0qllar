@@ -5,15 +5,15 @@
 
 
 <p align="center">
-   <br> ${\textsf{\color{#a94f39} ⧼    𝟰 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡    ⧽ }}$   
+   <br> ${\textsf{\color{#f0af83} ⧼    𝟰 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡    ⧽ }}$   
 <p align="center">
    <br>  c + h , interact freely  
    <br>  I'm often 𝗼𝗳𝗳𝘁𝗮𝗯 so 𝗪𝟮𝗜 if I don't reply
 
  <p align="center"
 
-   <br>  ${\textsf{\color{#f0af83} . 　⁺ 　 .   ⋆ }}$  [RENTRY](https://rentry.co/coqllar) , [DNi & ByF](https://rentry.co/coqllardnibyf) , [ATABOOK](https://coqllar.atabook.org)  ${\textsf{\color{#f0af83} ⋆   . 　⁺ 　 . }}$ 
-   <br> <br> ${\textsf{\color{#a94f39} discord : @/coqllar }}$  
+   <br>  ${\textsf{\color{#a94f39} . 　⁺ 　 .   ⋆ }}$  [RENTRY](https://rentry.co/coqllar) , [DNi & ByF](https://rentry.co/coqllardnibyf) , [ATABOOK](https://coqllar.atabook.org)  ${\textsf{\color{#a94f39} ⋆   . 　⁺ 　 . }}$ 
+   <br> ${\textsf{\color{#f0af83} discord : @/coqllar }}$  
 
 <p align="center">
 </p>
