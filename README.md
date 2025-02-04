@@ -13,7 +13,7 @@
  <p align="center"
 
    <br>  . 　⁺ 　 .   ⋆  [RENTRY](https://rentry.co/coqllar) , [DNi & ByF](https://rentry.co/coqllardnibyf) , [ATABOOK](https://coqllar.atabook.org)  ⋆   . 　⁺ 　 . 
-   <br> ${\textsf{\color{#a94f39} discord : @/coqllar }}$  
+   <br> ${\textsf{\color{#f0af83} discord : @/coqllar }}$  
 
 <p align="center">
 </p>
