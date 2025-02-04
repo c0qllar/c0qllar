@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=coqllar&abbreviated=true&label=STARS&color=845454)
+![](https://komarev.com/ghpvc/?username=coqllar&abbreviated=true&label=STARS&color=f0af83)
 
 <p align="center">
-<img src="https://i.postimg.cc/yYfXQXq4/image-2024-05-26-153905431.png">
+<img src="https://i.postimg.cc/T3sNMFpN/image-2024-05-23-222923658.png">
 
 
 <p align="center">
@@ -12,9 +12,8 @@
 
  <p align="center"
 
-   <br> discord: @/coqllar 
    <br>  . 　⁺ 　 .   ⋆  [RENTRY](https://rentry.co/coqllar) , [DNi & ByF](https://rentry.co/coqllardnibyf) , [ATABOOK](https://coqllar.atabook.org)  ⋆   . 　⁺ 　 . 
-   <br> ${\textsf{\color{#845454} pfp by @/naeruns }}$  
+   <br> ${\textsf{\color{#a94f39} discord : @/coqllar }}$  
 
 <p align="center">
 </p>
@@ -22,5 +21,5 @@
 
 
 <p align="center">
-<img src="https://i.postimg.cc/yYfXQXq4/image-2024-05-26-153905431.png">
+<img src="https://i.postimg.cc/T3sNMFpN/image-2024-05-23-222923658.png">
 
