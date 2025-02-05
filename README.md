@@ -13,6 +13,7 @@
 
  <p align="center"
 
+   <br> ${\textsf{\color{#f0af83} 𝗦𝗜𝗚𝗡 𝗔𝗧𝗔𝗕𝗢𝗢𝗞 (and leave a song recommendation!!) }}$ 
    <br>  ${\textsf{\color{#a94f39} . 　⁺ 　 .   ⋆ }}$  [RENTRY](https://rentry.co/coqllar) , [DNi & ByF](https://rentry.co/coqllardnibyf) , [ATABOOK](https://coqllar.atabook.org)  ${\textsf{\color{#a94f39} ⋆   . 　⁺ 　 . }}$ 
    <br> ${\textsf{\color{#f0af83} discord : @/coqllar }}$  
 
