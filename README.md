@@ -1,9 +1,8 @@
 
-　<p align="center">![](https://komarev.com/ghpvc/?username=coqllar&label=⋆&color=f0af83)</p>
-
 <p align="center">
-<img src="https://i.postimg.cc/T3sNMFpN/image-2024-05-23-222923658.png">
+<img src="https://files.catbox.moe/locg4d.png">
 
+　<p align="center">![](https://komarev.com/ghpvc/?username=coqllar&label=⋆&color=969e92)</p>
 
 <p align="center">
    <br>  ⧼    𝟰 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡    ⧽    
@@ -13,8 +12,8 @@
 
  <p align="center"
 
-   <br>  ${\textsf{\color{#a94f39} . 　⁺ 　 .   ⋆ }}$  [RENTRY](https://rentry.co/coqllar) , [DNi & ByF](https://rentry.co/coqllardnibyf) , [ATABOOK](https://coqllar.atabook.org)  ${\textsf{\color{#a94f39} ⋆   . 　⁺ 　 . }}$ 
-   <br> ${\textsf{\color{#f0af83} discord : @/coqllar }}$  
+   <br>  ${\textsf{\color{#8f9090} . 　⁺ 　 .   ⋆ }}$  [RENTRY](https://rentry.co/coqllar) , [DNi & ByF](https://rentry.co/coqllardnibyf) , [ATABOOK](https://coqllar.atabook.org)  ${\textsf{\color{#8f9090} ⋆   . 　⁺ 　 . }}$ 
+   <br> ${\textsf{\color{#969e92} discord : @/coqllar }}$  
 
 <p align="center">
 </p>
@@ -22,5 +21,5 @@
 
 
 <p align="center">
-<img src="https://i.postimg.cc/T3sNMFpN/image-2024-05-23-222923658.png">
+<img src="https://files.catbox.moe/3m1hgf.png">
 
