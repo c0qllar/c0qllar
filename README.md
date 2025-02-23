@@ -1,13 +1,13 @@
 
 <p align="center">
-<img src="https://i.postimg.cc/c6Gd2nbC/div2.png"> 
+<img src="https://files.catbox.moe/xs4r2k.png"> 
 
 　<p align="center">![](https://komarev.com/ghpvc/?username=coqllar&label=SPAWNS&color=242b4e)</p>
 
 <p align="center">
-   <br>  ⧼    𝟰 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡    ⧽    
+   <br>  ${\textsf{\color{#425078} ⧼    𝟰 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡    ⧽  }}$   
    <br>  c + h , interact freely  
-   <br>  I'm often 𝗼𝗳𝗳𝘁𝗮𝗯 so 𝗪𝟮𝗜 if I don't reply
+   <br>  I'm often 𝗼𝗳𝗳𝘁𝗮𝗯 so 𝗪𝟮𝗜 if I don't reply!
 <p align="center">
 <img src="https://i.postimg.cc/0rgysfWh/IMG-1040.gif">
  <p align="center"
@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-<img src="https://i.postimg.cc/fRZ90tRM/div.png">
+<img src="https://files.catbox.moe/siy05y.png">
 
