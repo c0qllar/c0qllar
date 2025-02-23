@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://files.catbox.moe/xs4r2k.png"> 
+<img src="https://files.catbox.moe/d61bwp.png"> 
 
 　<p align="center">![](https://komarev.com/ghpvc/?username=coqllar&label=SPAWNS&color=242b4e)</p>
 
@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-<img src="https://files.catbox.moe/siy05y.png">
+<img src="https://files.catbox.moe/8hfsvh.png">
 
