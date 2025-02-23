@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://64.media.tumblr.com/509a561996698b20738396ef0e304245/af6a3ceefa760375-75/s1280x1920/f7cbb8f0cd969b4655e4abebb273cc8eaad70994.pnj">
+<img src="https://64.media.tumblr.com/89fbc67b661b6f6cb164ce372bf2a563/af6a3ceefa760375-c2/s1280x1920/d3a90d3c10d3c98b4eeedd823e88e8dbd204a990.pnj">
 
 　<p align="center">![](https://komarev.com/ghpvc/?username=coqllar&label=⋆&color=969e92)</p>
 
@@ -21,5 +21,5 @@
 
 
 <p align="center">
-<img src="https://64.media.tumblr.com/509a561996698b20738396ef0e304245/af6a3ceefa760375-75/s1280x1920/f7cbb8f0cd969b4655e4abebb273cc8eaad70994.pnj">
+<img src="https://64.media.tumblr.com/89fbc67b661b6f6cb164ce372bf2a563/af6a3ceefa760375-c2/s1280x1920/d3a90d3c10d3c98b4eeedd823e88e8dbd204a990.pnj">
 
