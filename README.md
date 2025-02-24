@@ -6,8 +6,12 @@
 
 <p align="center">
    <br>  ${\textsf{\color{#425078} ⧼    𝟰 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡    ⧽  }}$   
+<p align="center">
    <br>  c + h , interact freely  
-   <br>  I'm often 𝗼𝗳𝗳𝘁𝗮𝗯 so 𝗪𝟮𝗜 if I don't reply!
+   <br>  I'm often 𝗼𝗳𝗳𝘁𝗮𝗯 so 𝗪𝟮𝗜 if I don't reply! 
+   <br>  ( 𝗽𝗹𝗲𝗮𝘀𝗲 𝗗𝗢 𝗡𝗢𝗧 𝗖𝗢𝗣𝗬 𝗺𝘆 𝘀𝗸𝗶𝗻𝘀 )
+
+
 <p align="center">
 <img src="https://i.postimg.cc/0rgysfWh/IMG-1040.gif">
  <p align="center"
