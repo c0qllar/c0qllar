@@ -2,8 +2,6 @@
 <p align="center">
 <img src="https://files.catbox.moe/d61bwp.png"> 
 
-　<p align="center">![](https://komarev.com/ghpvc/?username=coqllar&label=SPAWNS&color=242b4e)</p>
-
 <p align="center">
    <br>  ${\textsf{\color{#425078} ⧼    𝟰 𝗣𝗢𝗡𝗬𝗧𝗢𝗪𝗡    ⧽  }}$   
 <p align="center">
